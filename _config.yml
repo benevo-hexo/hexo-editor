@@ -2,13 +2,13 @@
 local: false
 
 # the username to login hexo editor
-username: hexo
+username: matt
 
 # the password for logining hexo editor
-password: imyouradmin
+password: doubi
 
 # the blog directory
-base_dir: ./docs
+base_dir: ~/web/hexo/im
 
 # port
-port: 2048
+port: 35721
